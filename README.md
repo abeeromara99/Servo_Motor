@@ -26,5 +26,5 @@
 1-for Rotate CW  
 2-for Rotate CCW    
 3-press any key to take you to the previous window   
--If you choose Servo_Motor then it will moved to your rated angle 
+-If you choose Servo_Motor and the next window opend, in this window you shall Enter your rotating angle then it will move to your rated angle 
 
